@@ -519,7 +519,7 @@ Tim Harper, John Hawthorn, hollownest, Daniel Kristensen, Jeremy Kleindl, Joel K
 Benjamin ter Kuile, Brad Langhorst, Brian Langenfeld,
 Georg Ledermann, Geoff Longman, Olly Lylo, Mark Mansour, Thomas Maurer, Kevin Moore,
 Tyler Pickett, Edward Rudd, Sharagoz,
-TJ Singleton, Mike Vincent, Joel Westerberg
+TJ Singleton, Mike Vincent, Joel Westerberg, Tanel Jakobsoo
 
 
 = License
